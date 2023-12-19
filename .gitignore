@@ -13,3 +13,4 @@ build/
 
 # Executables downloaded via sync script
 .sync/
+target/
