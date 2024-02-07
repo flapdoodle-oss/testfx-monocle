@@ -1,11 +1,13 @@
 # Fork of https://github.com/sebivenlo/testfx-monocle
 
+```xml
 <dependency>
     <groupId>de.flapdoodle.fx21</groupId>
     <artifactId>openjfx-monocle-java17</artifactId>
     <version>1.0.1</version>
     <scope>test</scope>
 </dependency>
+```
 
 
 # OpenJFX Monocle
