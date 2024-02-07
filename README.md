@@ -3,7 +3,7 @@
 <dependency>
     <groupId>de.flapdoodle.fx21</groupId>
     <artifactId>openjfx-monocle-java17</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <scope>test</scope>
 </dependency>
 
