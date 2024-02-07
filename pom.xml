@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.flapdoodle</groupId>
     <artifactId>openjfx-monocle</artifactId>
-    <version>jdk-17.0.1</version>
+    <version>fx21-jdk17-1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -14,7 +14,7 @@
     <name>openjfx monocle headless driver</name>
     <description>
       Headless graphics driver for JavaFX.
-      Cloned from https://github.com/TestFX/Monocle and adapted form maven, java 21 and javafx 21
+      Cloned from https://github.com/sebivenlo/testfx-monocle and adapted for maven, java 17 and javafx 21
     </description>
     <url>https://github.com/flapdoodle-oss/testfx-monocle</url>
      <developers>
@@ -29,6 +29,11 @@
                 <role>main developer</role>
             </roles>
         </developer>
+         <developer>
+             <id>mosmann</id>
+             <email>michael@mosmann.de</email>
+             <name>Michael Mosmann</name>
+         </developer>
      </developers>
       <scm>
         <connection>scm:git:git@github.com:flapdoodle-oss/testfx-monocle.git</connection>
