@@ -1,3 +1,13 @@
+# Fork of https://github.com/sebivenlo/testfx-monocle
+
+<dependency>
+    <groupId>de.flapdoodle.fx21</groupId>
+    <artifactId>openjfx-monocle-java17</artifactId>
+    <version>1.0.0</version>
+    <scope>test</scope>
+</dependency>
+
+
 # OpenJFX Monocle
 
 **Monocle** is the implementation of the Glass windowing component of JavaFX for embedded systems
